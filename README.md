@@ -36,5 +36,3 @@ Check if the e-mail provider is disposable:
 
 This method will check if the provider is included in the given list containing the disposable providers, a list with most common disposable providers is shipped with this library (kindly offered by [@michenriksen](https://gist.github.com/michenriksen/8710649)).
 Disposable providers list must be plain text files and providers must be separated by a break line (\n).
-
-Are you looking for the Node.js version? Give a look [here](https://github.com/RyanJ93/email-address-validator).
