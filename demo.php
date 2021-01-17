@@ -1,4 +1,11 @@
 <?php
+/**
+ * @author CoderSpy Ltd
+ * @email info@coderspy.com
+ * @create date 2021-01-17 06:42:07
+ * @modify date 2021-01-17 06:42:07
+ * @desc [description]
+ */
 require dirname(__FILE__) . '/php-email-address-validator.php';
 
 use PHPEmailAddressValidator\PHPEmailAddressValidator;
