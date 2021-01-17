@@ -33,6 +33,5 @@ Both white list and black list must be plain text files and providers must be se
 Check if the e-mail provider is disposable:
 
 `PHPEmailAddressValidator::isDisposableProvider($disposable);`
-
-This method will check if the provider is included in the given list containing the disposable providers, a list with most common disposable providers is shipped with this library (kindly offered by [@michenriksen](https://gist.github.com/michenriksen/8710649)).
+ 
 Disposable providers list must be plain text files and providers must be separated by a break line (\n).
