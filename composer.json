@@ -1,0 +1,32 @@
+{
+	"name": "ryanj93/php-email-address-validator",
+	"version": "1.1.2",
+	"description": "A simple tool that allows you to validate and check for e-mail address existence.",
+	"type": "library",
+	"license": "GPL-3.0-or-later",
+	"homepage": "https://github.com/RyanJ93/php-email-address-validator#readme",
+	"authors": [{
+		"name": "Enrico Sola",
+		"email": "sola.enrico.93@gmail.com",
+		"homepage": "https://www.enricosola.com"
+	}],
+	"require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "php": ">=7.0"
+    },
+    "keywords": [
+		"email",
+		"validator",
+		"validation",
+		"validate",
+		"utilities",
+		"security"
+	],
+	"autoload": {
+        "files": [
+	        "php-email-address-validator.php"
+	    ]
+    }
+}
